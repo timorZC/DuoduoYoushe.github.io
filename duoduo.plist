@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ZXJK.duoduoYoushe.ios8fix</string>
+				<string>com.ZXJK.duoduoYoushe</string>
 				<key>bundle-version</key>
 				<string>1.2</string>
 				<key>kind</key>
